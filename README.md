@@ -4,7 +4,10 @@ USAGE
 
 ./hirox
 
+
+
 Termux Android 
+
 
 1.install termux
 
@@ -28,6 +31,8 @@ chmod +x $HOME/hirox
 
 
 $HOME/hirox
+
+
 
 
 sudo apt-get update
