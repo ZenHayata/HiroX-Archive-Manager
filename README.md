@@ -17,8 +17,11 @@ Termux Android
 Examples
 
 cd /sdcard/download
+
 ls
+
 cp hirox $HOME
+
 chmod +x $HOME/hirox
 
 5.run
